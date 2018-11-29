@@ -30,3 +30,4 @@ elif month == 'november':
 print("Your Astrological sign is :",astro_sign)
 
 #na, most már aztán
+#támadnak a mókusok
