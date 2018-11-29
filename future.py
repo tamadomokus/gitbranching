@@ -28,3 +28,5 @@ elif month == 'october':
 elif month == 'november':
 	astro_sign = 'scorpio' if (day < 22) else 'sagittarius'
 print("Your Astrological sign is :",astro_sign)
+
+#na, most már aztán
