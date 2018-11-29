@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-create a method (this will be referenced as your method from now on), called future in a file/class of your choice that prints out your horoscope sign
-modify your method to have one parameter and print that out
-szia angi
-mokuska
 #create a method (this will be referenced as your method from now on), called future in a file/class of your choice that prints out your horoscope sign
 #modify your method to have one parameter and print that out
 
@@ -34,4 +29,4 @@ elif month == 'november':
 	astro_sign = 'scorpio' if (day < 22) else 'sagittarius'
 print("Your Astrological sign is :",astro_sign)
 
-
+#na, most már aztán
